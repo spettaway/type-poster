@@ -1,0 +1,68 @@
+body{
+	background: url(../img/emile-perron-190221-unsplash.jpg) no-repeat 50% 50%;
+	background-size: cover;
+	position: center;
+	top: 300px;
+}
+
+
+h1{
+   text-align: left;
+   text-transform: uppercase;
+   font-size: 3.75rem;
+   color: black;
+   letter-spacing: 2px;
+   line-height: .8;
+   font-family: 'IBM Plex Sans', sans-serif;
+   font-weight: 300;
+
+
+}
+h2{
+   text-align: left;
+   text-transform: uppercase;
+   font-size: 1.25rem;
+   color: white;
+   letter-spacing: 2px;
+   line-height: .8;
+   font-family: 'IBM Plex Sans Condensed', sans-serif;
+   font-weight: 200;
+}
+
+main {
+	position: relative;
+	left: -3.125rem; 
+	bottom: 3.125rem;
+	width: 45%;
+	margin: 10rem 3rem;
+	padding: 3rem;
+	background-color: rgba(255,255,255,.5);
+
+}
+
+footer p{
+	text-decoration: none;
+	margin: 10rem 3rem;
+	text-align: left;
+	text-transform: uppercase;
+	font-size: 0.75rem;
+	color: white;
+	letter-spacing: 0.125rem;
+	line-height: .1;
+	font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-weight: 200;
+    position: relative;
+    bottom: 12.5rem;
+    right: 2.5rem;
+}
+
+footer a:visited{
+ 	text-decoration: none;
+ 	background-color: white;
+ 	color: black;
+
+
+
+
+
+}
